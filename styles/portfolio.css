@@ -114,6 +114,7 @@ nav li {
   display: inline;
 }
 li a {
+  font-size: 16px;
   text-decoration: none;
   color: #000;
   transition: all 100ms ease-in-out;
