@@ -158,6 +158,7 @@ footer {
   display: block;
   color: var(--primary-color);
   text-decoration: none;
+  text-align: center;
 }
 .social-links a {
   font-size: 18px;
