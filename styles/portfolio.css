@@ -1,11 +1,11 @@
 :root {
-  --primary-color: #6c63ff;
+  --primary-color: #5084dd;
   --button-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
-  --secondary-color: #f5f2fe;
+  --secondary-color: #5084dd27;
   --heading-font-family: "Playfair Display", serif;
   --default-font-family: "Poppins", sans-serif;
 }
-
+/*#6c63ff;*/
 body {
   font-family: var(--default-font-family);
   padding: 10px;
@@ -41,6 +41,7 @@ h3 {
   padding: 20px 0;
   margin-bottom: 20px;
   background-color: var(--secondary-color);
+  border-radius: 4px;
 }
 
 .about-section {
